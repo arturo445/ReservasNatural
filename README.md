@@ -14,7 +14,7 @@ Proyecto académico desarrollado en SQL Server para la administración de reserv
 
 ## Tecnologías
 - SQL Server
-- T-SQL
+- Visual paradigm 
 - Git
 - GitHub
 
