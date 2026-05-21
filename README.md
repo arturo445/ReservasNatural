@@ -111,5 +111,6 @@ El modelo relacional fue diseñado en Visual Paradigm siguiendo principios de no
 
 **Arturo Abella**
 **Juldailis Cassares**
+**DIego Rivera**
 
 *Proyecto desarrollado para la asignatura de Bases de Datos - Universidad del Magdalena (2026).*
