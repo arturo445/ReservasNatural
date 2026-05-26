@@ -254,7 +254,7 @@ EXEC GenerarIngresosPorParque;
 
 **Juldailis Cassares**
 
-**Diego RIvera**\
+**Diego Rivera**\
 Universidad del Magdalena\
 Bases de Datos — 2026
 
