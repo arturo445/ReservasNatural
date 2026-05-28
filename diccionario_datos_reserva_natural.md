@@ -138,8 +138,8 @@ El modelo relacional se encuentra normalizado y utiliza:
 | Nombre           | VARCHAR(255)  | NOT NULL     | Nombre del parque natural    |
 | FechaDeclaracion | DATE          | NOT NULL     | Fecha de declaración oficial |
 | Extension        | DECIMAL(19,2) | NOT NULL     | Extensión territorial        |
-| Provincias\_ID   | INT           | FK           | Provincia asociada           |
-
+| Provincias\_ID   | INT           | FK           | Provincia asociada                    |
+| PrecioEntrada    | DECIMAL(10,2) | NOT NULL     | Precio actual de la entrada del parque|
 ---
 
 ## Tabla: Provincias
